@@ -4,9 +4,7 @@ This repository contains a very simple and basic resume that was created as an e
 
 ## Description
 
-The purpose of this exercise was to practice creating a basic resume using HTML and CSS. It serves as a starting point for anyone looking to build a simple resume webpage. Feel free to explore the code and make any modifications you need to suit your own requirements.
-
-
+The purpose of this exercise was to practice creating a basic resume using HTML and CSS. It serves as a starting point for anyone looking to build a simple resume webpage. 
 
 ## License
 
