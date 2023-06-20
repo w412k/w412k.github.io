@@ -34,6 +34,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact
 
-If you have any questions or inquiries regarding this project, you can reach out to me via email at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or inquiries regarding this project, you can reach out to me via email at [mark.vincentg21@gmail.com](mailto:mark.vincentg21@gmail.com).
 
 Thank you for checking out my simple resume exercise!
